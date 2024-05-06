@@ -1,3 +1,3 @@
 # chatgpt-chji
 ChatGPT General chji
-this is a testing
+this is a testing! 
